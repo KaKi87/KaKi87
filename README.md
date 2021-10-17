@@ -10,9 +10,9 @@
 ## <a href="https://git.kaki87.net/KaKi87"><img src="https://git.kaki87.net/img/favicon.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87)
 Especially :
 
-| [KPlaySearch](https://git.kaki87.net/KaKi87/KPlaySearch) | [ig-scraper](https://git.kaki87.net/KaKi87/ig-scraper) | [deepl-scraper](https://git.kaki87.net/KaKi87/deepl-scraper) | [SSHception](https://git.kaki87.net/KaKi87/sshception) | [glitchgit](https://git.kaki87.net/KaKi87/glitchgit)
-| - | - | - | - | - |
-| Advanced Google Play search engine | Free Instagram API without authentication | Free DeepL translator API without authentication | An SSH client within an SSH server | Error reporting to GitHub/Gitea issues from Sentry SDK
+| [KPlaySearch](https://git.kaki87.net/KaKi87/KPlaySearch) | [deepl-scraper](https://git.kaki87.net/KaKi87/deepl-scraper) | [SSHception](https://git.kaki87.net/KaKi87/sshception) | [glitchgit](https://git.kaki87.net/KaKi87/glitchgit)
+| - | - | - | - |
+| Advanced Google Play search engine | Free DeepL translator API without authentication | An SSH client within an SSH server | Error reporting to GitHub/Gitea issues from Sentry SDK
 
 I use [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
