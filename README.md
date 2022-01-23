@@ -7,7 +7,7 @@
 <a href="https://discord.gg/YkwCHKF7MU"><img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="32" height="32"></a>  
 <a href="https://old.reddit.com/user/KaKi_87"><img src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png" width="32" height="32"></a>
 
-## <a href="https://git.kaki87.net/KaKi87"><img src="https://git.kaki87.net/img/favicon.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87)
+## <a href="https://git.kaki87.net/KaKi87"><img src="https://git.kaki87.net/assets/img/logo.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87)
 Especially :
 
 | [playsearch.kaki87.net](https://git.kaki87.net/playsearch.kaki87.net/v2-web) | [deepl-scraper](https://git.kaki87.net/KaKi87/deepl-scraper) | [SSHception](https://git.kaki87.net/KaKi87/sshception) | [glitchgit](https://git.kaki87.net/KaKi87/glitchgit)
