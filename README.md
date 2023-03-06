@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/tianalemesle/"><img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="32" height="32"></a>  
 <a href="https://www.betaseries.com/membre/KaKi87"><img src="https://www.betaseries.com/images/site/favicon-32x32.png" width="32" height="32"></a>  
 <a href="https://pixelfed.de/KaKi87"><img src="https://pixelfed.de/img/favicon.png" width="32" height="32"></a>  
-<a href="https://discord.gg/YkwCHKF7MU"><img src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="32" height="32"></a>  
+<a href="https://discord.gg/YkwCHKF7MU"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="32" height="32"></a>  
 <a href="https://old.reddit.com/user/KaKi_87"><img src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png" width="32" height="32"></a>
 <a href="https://stackexchange.com/users/9523585/kaki87"><img src="https://cdn.sstatic.net/Sites/stackexchange/Img/apple-touch-icon@2.png?v=7512a9aa351b" width="32" height="32"></a>
 
