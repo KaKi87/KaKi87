@@ -4,7 +4,7 @@
 <a href="https://discord.gg/YkwCHKF7MU"><img src="./assets/discord.com.ico" width="32" height="32"></a> 
 <a href="https://www.linkedin.com/in/tianalemesle/"><img src="./assets/linkedin.com.ico" width="32" height="32"></a> 
 <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="32" height="32"></a> 
-<a href="https://github.com/KaKi87"><img src="./assets/github.com.png" width="32" height="32"></a> 
+<a href="https://github.com/KaKi87"><img src="./assets/github.com.svg" width="32" height="32"></a> 
 <a href="https://stackexchange.com/users/9523585/kaki87"><img src="./assets/stackexchange.com.png" width="32" height="32"></a>
 <a href="https://mamot.fr/@KaKi87"><img src="./assets/mastodon.svg" width="32" height="32"></a>
 <a href="https://old.reddit.com/user/KaKi_87"><img src="./assets/reddit.com.png" width="32" height="32"></a> 
