@@ -8,7 +8,7 @@
 <a href="https://old.reddit.com/user/KaKi_87"><img src="./assets/reddit.com.png" width="32" height="32"></a> 
 <a href="https://stackexchange.com/users/9523585/kaki87"><img src="./assets/stackexchange.com.png" width="32" height="32"></a>
 
-## <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87)
+## <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87?tab=repositories)
 Especially :
 
 |      [Play Search](https://git.kaki87.net/playsearch.kaki87.net/v2-web)      |       [SSHception](https://git.kaki87.net/KaKi87/sshception)       |
