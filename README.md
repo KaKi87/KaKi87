@@ -1,4 +1,4 @@
-# KaKi — high tech enthusiast
+# KaKi — 24yo French web dev & tech enthusiast
 
 <a href="mailto:tiana.lemesle@protonmail.com"><img src="./assets/protonmail.com.svg" width="32" height="32"></a> 
 <a href="https://discord.gg/YkwCHKF7MU"><img src="./assets/discord.com.ico" width="32" height="32"></a> 
