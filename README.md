@@ -11,11 +11,11 @@
 ## <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87)
 Especially :
 
-| [playsearch.kaki87.net](https://git.kaki87.net/playsearch.kaki87.net/v2-web) |    [deepl-scraper](https://git.kaki87.net/KaKi87/deepl-scraper)    |      [SSHception](https://git.kaki87.net/KaKi87/sshception)      |  [glitchgit](https://git.kaki87.net/KaKi87/glitchgit)  |
-|:----------------------------------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------:|:------------------------------------------------------:|
-|                      Advanced Google Play search engine                      |          Free DeepL translator API without authentication          |                An SSH client within an SSH server                | Error reporting to GitHub/Gitea issues from Sentry SDK |
-| **[axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter)** | **[fastify-matomo](https://git.kaki87.net/KaKi87/fastify-matomo)** | **[sponsor-stats](https://git.kaki87.net/KaKi87/sponsor-stats)** |                       **cv.vg**                        |
-|         An Axios adapter for the http module of the Tauri framework          |        Matomo analytics for the fastify back-end framework         |     SponsorBlock stats comparison tool for YouTube channels      |         Advanced URL shortener *(early stage)*         |
+|      [Play Search](https://git.kaki87.net/playsearch.kaki87.net/v2-web)      |       [SSHception](https://git.kaki87.net/KaKi87/sshception)       |
+|:----------------------------------------------------------------------------:|:------------------------------------------------------------------:|
+|                      Advanced Google Play search engine                      |                 An SSH client within an SSH server                 |
+| **[axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter)** | **[fastify-matomo](https://git.kaki87.net/KaKi87/fastify-matomo)** |
+|         An Axios adapter for the http module of the Tauri framework          |        Matomo analytics for the fastify back-end framework         |
 
 I use [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
