@@ -6,7 +6,7 @@
 <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="32" height="32"></a> 
 <a href="https://github.com/KaKi87"><img src="./assets/github.com.svg" width="32" height="32"></a> 
 <a href="https://stackexchange.com/users/9523585/kaki87"><img src="./assets/stackexchange.com.png" width="32" height="32"></a>
-<a href="https://mamot.fr/@KaKi87"><img src="./assets/mastodon.svg" width="32" height="32"></a>
+<a href="https://mamot.fr/@KaKi87" rel="me"><img src="./assets/mastodon.svg" width="32" height="32"></a>
 <a href="https://old.reddit.com/user/KaKi_87"><img src="./assets/reddit.com.png" width="32" height="32"></a> 
 <a href="https://pixelfed.de/KaKi87"><img src="./assets/pixelfed.de.png" width="32" height="32"></a> 
 <a href="https://www.betaseries.com/membre/KaKi87"><img src="./assets/betaseries.com.png" width="32" height="32"></a> 
