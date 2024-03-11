@@ -13,13 +13,16 @@
 <a href="https://open.spotify.com/user/tiana.lemesle"><img src="./assets/spotify.com.png" width="32" height="32"></a>
 
 ## <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87?tab=repositories)
+
 Especially :
 
 | [Play Search](https://git.kaki87.net/playsearch.kaki87.net/v2-web) |    [SSHception](https://git.kaki87.net/KaKi87/sshception)    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              Advanced Google Play search engine              |              An SSH client within an SSH server              |
-| **[axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter)** | **[fastify-matomo](https://git.kaki87.net/KaKi87/fastify-matomo)** |
-| An Axios adapter for the http module of the Tauri framework  |     Matomo analytics for the fastify back-end framework      |
+|  **[MastoVue++](https://git.kaki87.net/KaKi87/mastovuepp)**  | **[Userscripts](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/README.md)** |
+|               Advanced Mastodon feed explorer                | 20+ userscripts including Cloudflare detectors for search engines, dynamic blacklist for Dark Reader, responsive design for Old Reddit... |
+| **[axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter)**<br />**[axios-sse-adapter](https://git.kaki87.net/KaKi87/axios-sse-adapter)**<br />**[axios-fire-and-forget-adapter](https://git.kaki87.net/KaKi87/axios-fire-and-forget-adapter)** | **[apache2-analytics](https://git.kaki87.net/KaKi87/apache2-analytics)**<br />**[fastify-matomo](https://git.kaki87.net/KaKi87/fastify-matomo)** |
+| Axios adapters for `http` on Tauri, `EventSource` on Node & browser, fire-and-forget on Node |   Matomo (and Plausible) analytics for apache2 and Fastify   |
 
 I use [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
