@@ -11,6 +11,7 @@
 <a href="https://pixelfed.de/KaKi87"><img src="./assets/pixelfed.de.png" width="32" height="32"></a> 
 <a href="https://www.betaseries.com/membre/KaKi87"><img src="./assets/betaseries.com.png" width="32" height="32"></a> 
 <a href="https://open.spotify.com/user/tiana.lemesle"><img src="./assets/spotify.com.png" width="32" height="32"></a>
+<a href="https://www.allovoisins.com/p/tianalemesle"><img src="./assets/allovoisins.com.png" width="32" height="32"></a>
 
 ## <a href="https://git.kaki87.net/KaKi87"><img src="./assets/git.kaki87.net.svg" width="16" height="16"></a> Browse all my FLOSS projects at [git.kaki87.net](https://git.kaki87.net/KaKi87?tab=repositories)
 
