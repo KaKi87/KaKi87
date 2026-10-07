@@ -28,4 +28,20 @@ Especially :
 
 I use [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
+## :robot: Vibe-coding
+
+All projets listed above and on my profiles nicknamed `KaKi87`, are written by myself, potentially with AI but as an assistant, and most of them were created pre-LLMs.
+
+Meanwhile, projets listed below and on my separate profiles nicknamed `VibedByKaKi`, are explicitly written by AI autonomously, with feedback loops, browser/emulator-based testing and human validation just at the last step.
+
+|                            [Soul2 Browser](https://git.kaki87.net/VibedByKaKi/soul-browser)                            |              [T3 Code Android Nightly](https://github.com/VibedByKaKi/t3-code-android-nightly)               |
+|:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+| Source-available "Fork" of Soul Browser, ultra-customizable proprietary browser for Android, abandoned by its creator. |                 Unofficial Nightly APKs of T3 Code for Android, advanced GUI for agentic AI.                 |
+|                        **[Aliucord plugins](https://github.com/VibedByKaKi/aliucord-plugins)**                         |                  **[markdown-tokens](https://git.kaki87.net/VibedByKaKi/markdown-tokens)**                   |
+|                            Plugins for Aliucord, customization mod of Discord for Android.                             | Markdown tokenizer returning JSON preserving syntax, will serve as base for a WYSIWYG editor (Typora-style). |
+
+I also forked the following open source projects to make personal improvements :
+[FUTO Keyboard](https://github.com/VibedByKaKi/futo-keyboard),
+[zt64's Aliucord Plugins](https://github.com/VibedByKaKi/zt64-aliucord-plugins).
+
 ## <a href="https://tianalemesle.fr"><img src="./assets/tianalemesle.fr.png" width="16" height="16"></a> Visit my portfolio at [tianalemesle.fr](https://tianalemesle.fr)

@@ -28,4 +28,20 @@ Notamment :
 
 J'utilise [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
+## :robot: Vibe-coding
+
+Tous les projets listés ci-dessus et sur mes profils au nom de `KaKi87`, sont écrits par moi-même, potentiellement avec IA mais en rôle d'assistant, et une grande majorité ont été créés pré-LLM.
+
+En revanche, les projets ci-dessous et sur des profils séparés nommés `VibedByKaKi`, sont explicitement écrits par IA en autonomie, avec des boucles de rétroaction, du test par navigateur/émulateur et une validation humaine seulement à l'étape finale.
+
+|                                   [Soul2 Browser](https://git.kaki87.net/VibedByKaKi/soul-browser)                                   |                  [T3 Code Android Nightly](https://github.com/VibedByKaKi/t3-code-android-nightly)                   |
+|:------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
+| "Fork" à code source public de Soul Browser, navigateur propriétaire ultra-personnalisable pour Android, abandonné par son créateur. |     APKs non-officiels compilés pour la version alpha de T3 Code, interface graphique avancée pour IA agentique.     |
+|                               **[Aliucord plugins](https://github.com/VibedByKaKi/aliucord-plugins)**                                |                      **[markdown-tokens](https://git.kaki87.net/VibedByKaKi/markdown-tokens)**                       |
+|                                Plugins pour Aliucord, mod de personnalisation de Discord sur Android.                                | Tokenizer Markdown retournant du JSON préservant la syntaxe, servira de base pour un éditeur WYSIWYG (façon Typora). |
+
+J'ai également forké les projets open source suivants pour y apporter des améliorations personnelles :
+[FUTO Keyboard](https://github.com/VibedByKaKi/futo-keyboard),
+[zt64's Aliucord Plugins](https://github.com/VibedByKaKi/zt64-aliucord-plugins).
+
 ## <a href="https://tianalemesle.fr/fr"><img src="./assets/tianalemesle.fr.png" width="16" height="16"></a> Visitez mon portfolio sur [tianalemesle.fr](https://tianalemesle.fr/fr)
