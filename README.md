@@ -30,7 +30,7 @@ I use [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
 ## :robot: Vibe-coding
 
-All projets listed above and on my profiles nicknamed `KaKi87`, are written by myself, potentially with AI but as an assistant, and most of them were created pre-LLMs.
+All projects listed above and on my profiles nicknamed `KaKi87`, are written by myself, potentially with AI but as an assistant, and most of them were created pre-LLMs.
 
 Meanwhile, projets listed below and on my separate profiles nicknamed `VibedByKaKi`, are explicitly written by AI autonomously, with feedback loops, browser/emulator-based testing and human validation just at the last step.
 
