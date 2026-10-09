@@ -32,7 +32,7 @@ I use [Gitmoji](https://gitmoji.kaki87.net) ! :sunglasses:
 
 All projects listed above and on my profiles nicknamed `KaKi87`, are written by myself, potentially with AI but as an assistant, and most of them were created pre-LLMs.
 
-Meanwhile, projets listed below and on my separate profiles nicknamed `VibedByKaKi`, are explicitly written by AI autonomously, with feedback loops, browser/emulator-based testing and human validation just at the last step.
+Meanwhile, projects listed below and on my separate profiles nicknamed `VibedByKaKi`, are explicitly written by AI autonomously, with feedback loops, browser/emulator-based testing and human validation just at the last step.
 
 |                            [Soul2 Browser](https://git.kaki87.net/VibedByKaKi/soul-browser)                            |              [T3 Code Android Nightly](https://github.com/VibedByKaKi/t3-code-android-nightly)               |
 |:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
